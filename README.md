@@ -1,7 +1,6 @@
-# YoutubePlaylistBuilder
+# Youtube Playlist Builder - Build with React
 
-It's a first shot at a React Project.
-Build and play quick Youtube Video Playlists.
+Build and play quick Youtube videos playlists.
 
 ### [Demo](https://youtubeplaylistbuilder.herokuapp.com)
 
