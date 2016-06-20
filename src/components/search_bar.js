@@ -24,7 +24,6 @@ export default class SearchBar extends Component {
     }
 
     render() {
-        console.log(this.props.videos);
         return(
             <div className="search-bar" onMouseLeave={(event) => this.setState({ isSelected:false })}>
                 <input
